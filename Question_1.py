@@ -1,3 +1,5 @@
+#remove duplicates
+
 arr=[1,1,2,2,2,3,3]
 dic={}
 for i in arr:
